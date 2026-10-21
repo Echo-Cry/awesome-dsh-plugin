@@ -1,0 +1,7 @@
+url: https://github.com/Echo-Cry/dsh-away-notify
+name: Echo-Cry/dsh-away-notify
+category: notify
+description:
+  en: Autonomous news briefing on user absence or continuous schedule, delivered directly to DSH sessions or IM bots via dsh-im.
+  zh: 自主搜索指定的网络资讯并向用户的会话或IM机器人推送，支持离席闲置与持续运行模式。
+tarball: https://github.com/Echo-Cry/dsh-away-notify/releases/download/v0.8.4/dsh-away-notify-0.8.4.tgz
